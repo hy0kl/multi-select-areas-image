@@ -4,7 +4,12 @@
   "version": "1.0.0",
   "author": "yangyj <hy0kle@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "keywords": [
+    "multiple",
+    "image areas",
+    "vue",
+    "components"
+  ],
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
